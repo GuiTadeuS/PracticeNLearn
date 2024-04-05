@@ -1,2 +1,2 @@
 # PracticeNLearn
-Repository to practice microservices with DDD, CQRS, Vertica/Clean architecture
+Repository to practice microservices with DDD, CQRS, Vertical/Clean architecture
